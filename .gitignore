@@ -1,0 +1,81 @@
+﻿# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Browser profiles / login data
+.ig_browser_profile*/
+browser_profile*/
+profile*/
+User Data/
+Default/
+Cookies
+Cookies-journal
+Login Data
+Login Data-journal
+Local State
+Network/
+Session Storage/
+Local Storage/
+IndexedDB/
+Code Cache/
+GPUCache/
+Cache/
+Service Worker/
+
+# Sensitive files
+.env
+.env.*
+*_cookies.txt
+cookies.txt
+*.cookie
+*.session
+*.session-journal
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+
+# Runtime output
+downloads/
+download/
+output/
+outputs/
+temp/
+tmp/
+cache/
+logs/
+log/
+*.log
+
+# Media
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.avif
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wav
+*.mp3
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
